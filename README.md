@@ -1,3 +1,6 @@
+
+# ORIGINALLY CREATED FOR MASTERS PROGRAM 
+
 # Project 2: Tracking User Activity
 
 In this project, you work at an ed tech firm. You've created a service that
